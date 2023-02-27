@@ -48,7 +48,7 @@ git clone https://github.com/chainstacklabs/chainstack-full-vs-archive-query-py.
 pip install -r requirements.txt 
 ```
 
-### edit the .env.sample file
+### Edit the env.sample file
 
 Add your RPC node URLs and rename the file to `.env`.
 
