@@ -45,7 +45,7 @@ git clone https://github.com/chainstacklabs/chainstack-full-vs-archive-query-py.
 ### Install dependencies
 
 ```sh
-pip3 install -r requirements.txt 
+pip install -r requirements.txt 
 ```
 
 ### edit the .env.sample file
