@@ -37,9 +37,9 @@ This tool queries the blockchain using the web3 and inquirer libraries for Pytho
 
 ### Clone this repository
 
-Change this
+
 ```sh
-git clone https://github.com/yieniggu/chainstack-full-vs-archive-query-js.git
+git clone https://github.com/chainstacklabs/chainstack-full-vs-archive-query-py.git
 ```
 
 ### Install dependencies
@@ -83,7 +83,7 @@ Deploy a full and archive node with Chainstack:
 Clone this repository:
 
 ```sh
-git clone https://github.com/yieniggu/chainstack-full-vs-archive-query-js.git
+git clone https://github.com/chainstacklabs/chainstack-full-vs-archive-query-py.git
 ```
 
 Install the dependencies in the project's directory:
@@ -93,5 +93,5 @@ cd query-full-and-archive-nodes-python
 ```
 
 ```sh
-pip3 install -r requirements.txt 
+pip install -r requirements.txt 
 ```
