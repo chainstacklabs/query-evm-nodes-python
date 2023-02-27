@@ -55,6 +55,7 @@ Add your RPC node URLs and rename the file to `.env`.
 ```env
 CHAINSTACK_FULL_NODE="CHAINSTACK_FULL_NODE_URL"
 CHAINSTACK_ARCHIVE_NODE="CHAINSTACK_ARCHIVE_NODE_URL"
+```
 
 ### Run the program
 
